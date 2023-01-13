@@ -1,0 +1,14 @@
+pacman\Game.class
+pacman\PieceMove.class
+pacman\PieceShape.class
+pacman\Ghost.class
+pacman\Block.class
+pacman\Collide.class
+pacman\TopScore.class
+pacman\Boost.class
+pacman\UserScore.class
+pacman\Pac.class
+pacman\Stage1.class
+pacman\Piece.class
+pacman\Food.class
+pacman\Som.class
